@@ -32,7 +32,7 @@ Proyecto de pagina web en el curso de especialzicion en videojuegos y realidad v
 - **Diseño y consultas en:** SQL, Microsoft Azure
 - **Lenguaje de consultas:** DAX (utilizado en Power BI).
 
-### 🗄️ Desarrollo de Videojuegos y Realidad Virtual (en aprendizaje)
+### 🎮 Desarrollo de Videojuegos y Realidad Virtual (en aprendizaje)
 - **Motor de juego:** Unity (C#)
 - **Realidad Virtual y aumentada:** Creación de experiencias inmersivas, interacción y optimización de entornos VR/AR.
 - **Modelo 3D y Animacion:**  Blender
