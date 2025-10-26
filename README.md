@@ -1,6 +1,6 @@
 # 📚 David Jimenez Villena
 
-¡Hola! Soy David, un apasionado/a del campo de la informatica, soy un desarrollador web junior en busca de oportunidades y seguir aprendiendo del sector. Aquí encontrarás información sobre mis proyectos, habilidades y cómo puedes ponerte en contacto conmigo.
+¡Hola! Soy David, un apasionado/a del campo de la informatica, soy un desarrollador web junior y actualmente estudiante del curso de Especialización en Desarrollo de videojuegos y realidad virtual en busca de oportunidades y seguir aprendiendo del sector. Aquí encontrarás información sobre mis proyectos, habilidades y cómo puedes ponerte en contacto conmigo.
 
 ## 📂 Proyectos
 
@@ -13,8 +13,11 @@ Aqui podemos ver el porfolio que he realizado personalmente
 ### Cifrado Cesar
 Podras ver un pequeño ejemplo sobre el cifrado Cesar uno de los primeros cifrados de la historia
 
+### Afterbit
+Proyecto de pagina web en el curso de especialzicion en videojuegos y realidad virtual realizado con react.js y tailwind.css
+
 ### 🌐 Desarrollo Web 
-- **Backend:** Java, Python(En aprendizaje), PHP.
+- **Backend:** Java, Python(En aprendizaje), PHP, C#.
 - **Frontend:** JavaScript, HTML,CSS
 
 ### ⚙️ Herramientas 
@@ -28,6 +31,11 @@ Podras ver un pequeño ejemplo sobre el cifrado Cesar uno de los primeros cifrad
 ### 🗄️ Bases de datos 
 - **Diseño y consultas en:** SQL, Microsoft Azure
 - **Lenguaje de consultas:** DAX (utilizado en Power BI).
+
+### 🗄️ Desarrollo de Videojuegos y Realidad Virtual (en aprendizaje)
+- **Motor de juego:** Unity (C#)
+- **Realidad Virtual y aumentada:** Creación de experiencias inmersivas, interacción y optimización de entornos VR/AR.
+- **Modelo 3D y Animacion:**  Blender
 
 ## 🛠️ Habilidades
 
