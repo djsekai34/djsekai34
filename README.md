@@ -1,82 +1,228 @@
-# 📚 David Jimenez Villena
-### Desarrollador Web Junior | Estudiante de Especialización en Videojuegos y VR 🎮
+<div align="center">
 
-¡Hola! Soy David, un apasionado de la informática y el desarrollo de software. Actualmente, compagino mi base como **desarrollador web junior** con el **Curso de Especialización en Desarrollo de Videojuegos y Realidad Virtual**, en busca de nuevas oportunidades y con el objetivo de seguir aprendiendo en este sector.
+<!-- HEADER -->
+# 👾 David Jiménez Villena
 
-En este perfil encontrarás un resumen de mis **proyectos**, mis **habilidades** personales, los **stacks tecnológicos** que domino y mis **intereses**, además de las distintas vías para ponerte en contacto conmigo. ¡Bienvenido!
+```
+╔══════════════════════════════════════════════════════╗
+║   Desarrollador Web Junior  ·  Videojuegos & VR 🎮   ║
+╚══════════════════════════════════════════════════════╝
+```
+
+<!-- TYPING ANIMATION -->
+<img src="https://readme-typing-svg.herokuapp.com?font=Space+Mono&size=18&duration=3000&pause=1000&color=8B9EFF&center=true&vCenter=true&multiline=true&repeat=true&width=600&height=80&lines=Construyendo+el+futuro%2C+linea+a+linea+%F0%9F%92%BB;Full+Stack+Dev+%7C+Unity+%7C+VR%2FAR+%7C+Pixel+Art+%F0%9F%8E%AE;Siempre+aprendiendo%2C+siempre+creando+%F0%9F%9A%80" />
+
+<br/>
+
+<!-- BADGES DE PRESENTACIÓN -->
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/david-jimenez-villena/)
+[![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/djsekai34)
+[![Gmail](https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:davidjimenezvillena@gmail.com)
+
+<br/>
+
+![Location](https://img.shields.io/badge/📍_Andalucía%2C_España-0a0a0f?style=flat-square&labelColor=1e1e3a&color=8b9eff)
+![Status](https://img.shields.io/badge/🚀_Open_to_Work-0a0a0f?style=flat-square&labelColor=1e1e3a&color=4ade80)
+![Focus](https://img.shields.io/badge/🎮_Game_Dev_%26_VR-0a0a0f?style=flat-square&labelColor=1e1e3a&color=c084fc)
+
+</div>
+
 ---
 
-## 📂 Proyectos Destacados
+## 👋 Sobre mí
 
-### 🌌 [Afterbit](https://github.com/djsekai34/Afterbit)
-**Landing Page & Ecosistema de Juego** Este es el proyecto central de mi formación. Funciona como el portfolio oficial y plataforma de mi "estudio" de videojuegos (proyecto académico), diseñado para ser el **punto de encuentro de todos los juegos y experiencias VR que desarrolle durante el curso**.
+```js
+const david = {
+  rol:          "Desarrollador Web Junior + Especialización en Videojuegos & VR",
+  ubicación:    "Andalucía, España 🇪🇸",
+  estudiando:   ["Unity", "VR/AR", "Python", "Docker"],
+  intereses:    ["Game Dev", "Pixel Art", "Full Stack", "Fútbol ⚽", "Baloncesto 🏀"],
+  objetivo:     "Seguir creciendo, aprendiendo y construyendo cosas chulas 🚀",
+};
+```
 
-* **Plataforma Web:** Desarrollada con **React.js** y **Tailwind CSS**, sirve como hub interactivo para presentar mi identidad de marca y mis futuros lanzamientos.
-* **Diseño y Evolución:** El ecosistema cuenta con un **GDD (Game Design Document)** detallado para mi **juego final**, donde defino las mecánicas, narrativa y arquitectura técnica. En esta plataforma iré integrando progresivamente cada **juego y proyecto funcional** que se realice durante el curso.
+Apasionado de la informática y el desarrollo de software, compagino mi base como **desarrollador web** con el **Curso de Especialización en Desarrollo de Videojuegos y Realidad Virtual**. Siempre en busca de nuevos retos y con muchas ganas de seguir aprendiendo.
 
-### 🍽️ [TFG Restaurante](https://github.com/djsekai34/Proyecto-TFG-Restaurante)
-**Sistema de Gestión Integral Full Stack (Proyecto Final DAW)** Una solución completa para la digitalización de hostelería desarrollada con **PHP** y **JavaScript**, integrando lógica de servidor y dinamismo en el cliente:
-* **Gestión Administrativa:** Control total del inventario (stock), permitiendo dar de alta o baja productos, platos y gestionar la plantilla de camareros.
-* **Operativa de Sala:** El sistema requiere que el camarero inicie sesión para gestionar mesas, procesar pedidos en tiempo real y seleccionar diferentes formas de pago para finalizar la venta.
-* **Tecnologías:** Desarrollo integral utilizando **PHP** para el backend y **JavaScript** para mejorar la experiencia de usuario y la interactividad.
+---
 
-### 🔐 [Cifrado Cesar](https://github.com/djsekai34/CifradoCesar)
-**Introducción a la Criptografía Clásica (Proyecto Básico)** Un desarrollo sencillo realizado con **HTML, CSS y JavaScript** diseñado para comprender los pilares de la seguridad informática. A través de la implementación del algoritmo de cifrado por desplazamiento, exploré conceptos fundamentales como la manipulación de strings y la lógica algorítmica aplicada a la protección de datos elemental.
+## 🚀 Proyectos Destacados
 
-### 💻 [Portfolio Personal](https://github.com/djsekai34)
-**Mi Escaparate Digital y Centro Profesional** Este espacio es mi carta de presentación más completa. Está diseñado para ofrecer una visión 360º de mi perfil como desarrollador, incluyendo:
-* **Trayectoria y Formación:** Detalle exhaustivo de mis estudios académicos y mi trayectoria laboral.
-* **Stack Tecnológico:** Listado actualizado de los lenguajes de programación y herramientas que domino.
-* **Recursos Descargables:** Acceso directo a mi **CV actualizado** en PDF.
-* **Sobre Mí:** Una sección dedicada a mi filosofía de trabajo, intereses personales y mis skills.
+<table>
+  <tr>
+    <td width="50%">
+      <h3 align="center">🌌 Afterbit</h3>
+      <div align="center">
+        <a href="https://github.com/djsekai34/Afterbit" target="_blank">
+          <img src="https://img.shields.io/badge/Ver_Proyecto-181717?style=for-the-badge&amp;logo=github" />
+        </a>
+      </div>
+      <p align="center">
+        Landing page y ecosistema de mi estudio de juegos. Hub interactivo en <strong>React.js + Tailwind CSS</strong> que reúne todos mis proyectos del curso, con GDD completo para el juego final.
+      </p>
+      <div align="center">
+        <img src="https://img.shields.io/badge/React-20232A?style=flat-square&amp;logo=react&amp;logoColor=61DAFB" />
+        <img src="https://img.shields.io/badge/Tailwind-06B6D4?style=flat-square&amp;logo=tailwindcss&amp;logoColor=white" />
+      </div>
+    </td>
+    <td width="50%">
+      <h3 align="center">🍽️ TFG Restaurante</h3>
+      <div align="center">
+        <a href="https://github.com/djsekai34/Proyecto-TFG-Restaurante" target="_blank">
+          <img src="https://img.shields.io/badge/Ver_Proyecto-181717?style=for-the-badge&amp;logo=github" />
+        </a>
+      </div>
+      <p align="center">
+        Sistema Full Stack de gestión hostelera: inventario, pedidos en tiempo real, gestión de personal y múltiples métodos de pago.
+      </p>
+      <div align="center">
+        <img src="https://img.shields.io/badge/PHP-777BB4?style=flat-square&amp;logo=php&amp;logoColor=white" />
+        <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&amp;logo=javascript&amp;logoColor=black" />
+      </div>
+    </td>
+  </tr>
+  <tr>
+    <td width="50%">
+      <h3 align="center">🔐 Cifrado César</h3>
+      <div align="center">
+        <a href="https://github.com/djsekai34/CifradoCesar" target="_blank">
+          <img src="https://img.shields.io/badge/Ver_Proyecto-181717?style=for-the-badge&amp;logo=github" />
+        </a>
+      </div>
+      <p align="center">
+        Implementación de criptografía clásica en el navegador. Exploración de algoritmos de cifrado por desplazamiento y manipulación de strings.
+      </p>
+      <div align="center">
+        <img src="https://img.shields.io/badge/HTML5-E34F26?style=flat-square&amp;logo=html5&amp;logoColor=white" />
+        <img src="https://img.shields.io/badge/CSS3-1572B6?style=flat-square&amp;logo=css3&amp;logoColor=white" />
+        <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&amp;logo=javascript&amp;logoColor=black" />
+      </div>
+    </td>
+    <td width="50%">
+      <h3 align="center">💼 Portfolio Personal</h3>
+      <div align="center">
+        <a href="https://github.com/djsekai34" target="_blank">
+          <img src="https://img.shields.io/badge/Ver_Portfolio-181717?style=for-the-badge&amp;logo=github" />
+        </a>
+      </div>
+      <p align="center">
+        Carta de presentación completa con trayectoria, stack tecnológico, CV descargable y filosofía de trabajo. Visión 360º de mi perfil.
+      </p>
+      <div align="center">
+        <img src="https://img.shields.io/badge/CV-Descargable-8B9EFF?style=flat-square" />
+      </div>
+    </td>
+  </tr>
+</table>
 
 ---
 
 ## 🛠️ Stack Tecnológico
 
+<div align="center">
+
 ### 🌐 Desarrollo Web
-- **Backend:** ![Java](https://img.shields.io/badge/-Java-ED8B00?style=flat-square&logo=openjdk&logoColor=white) ![C#](https://img.shields.io/badge/-C%23-239120?style=flat-square&logo=c-sharp&logoColor=white) ![PHP](https://img.shields.io/badge/-PHP-777BB4?style=flat-square&logo=php&logoColor=white) ![Python](https://img.shields.io/badge/-Python_(Aprendizaje)-3776AB?style=flat-square&logo=python&logoColor=white)
-- **Frontend:** ![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black) ![HTML5](https://img.shields.io/badge/-HTML5-E34F26?style=flat-square&logo=html5&logoColor=white) ![CSS3](https://img.shields.io/badge/-CSS3-1572B6?style=flat-square&logo=css3&logoColor=white)
 
-### ⚙️ Herramientas y Diseño
-- **Control de versiones:** ![Git](https://img.shields.io/badge/-Git-F05033?style=flat-square&logo=git&logoColor=white)
-- **Contenedores:** ![Docker](https://img.shields.io/badge/-Docker_(Aprendizaje)-2496ED?style=flat-square&logo=docker&logoColor=white)
-- **Edición Gráfica:** ![Photoshop](https://img.shields.io/badge/-Photoshop-31A8FF?style=flat-square&logo=adobe-photoshop&logoColor=white) ![Gimp](https://img.shields.io/badge/-Gimp-5C5543?style=flat-square&logo=gimp&logoColor=white)
-- **Edición de Vídeo:** ![Sony Vegas](https://img.shields.io/badge/-Sony_Vegas-000000?style=flat-square) ![Filmora](https://img.shields.io/badge/-Filmora-00C5CD?style=flat-square)
-- **Prototipado:** ![Figma](https://img.shields.io/badge/-Figma-F24E1E?style=flat-square&logo=figma&logoColor=white)
-- **Análisis de Datos:** ![Power BI](https://img.shields.io/badge/-Power_BI-F2C811?style=flat-square&logo=microsoft-power-bi&logoColor=black)
+**Backend**
 
-### 🎮 Videojuegos y VR (En aprendizaje)
-- **Motor:** ![Unity](https://img.shields.io/badge/-Unity-000000?style=flat-square&logo=unity&logoColor=white)
-- **Arte:** ![Pixel Art](https://img.shields.io/badge/-Pixel_Art-blue?style=flat-square) Diseño de sprites y animaciones 2D.
-- **VR/AR:** Creación de experiencias inmersivas, interacción y optimización de entornos.
+![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)
+![C#](https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=c-sharp&logoColor=white)
+![PHP](https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white)
+![Python](https://img.shields.io/badge/Python_(aprendiendo)-3776AB?style=for-the-badge&logo=python&logoColor=white)
 
-### 🗄️ Bases de Datos
-- **Sistemas:** ![SQL](https://img.shields.io/badge/-SQL-4479A1?style=flat-square&logo=mysql&logoColor=white) ![Azure](https://img.shields.io/badge/-Microsoft_Azure-0089D6?style=flat-square&logo=microsoft-azure&logoColor=white)
-- **Lenguaje:** ![DAX](https://img.shields.io/badge/-DAX_(Power_BI)-F2C811?style=flat-square)
+**Frontend**
+
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
+![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
+![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
+![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
+![Tailwind](https://img.shields.io/badge/Tailwind_CSS-06B6D4?style=for-the-badge&logo=tailwindcss&logoColor=white)
+
+---
+
+### 🎮 Videojuegos & VR *(En aprendizaje activo)*
+
+![Unity](https://img.shields.io/badge/Unity-000000?style=for-the-badge&logo=unity&logoColor=white)
+![C#](https://img.shields.io/badge/C%23_(Unity)-239120?style=for-the-badge&logo=c-sharp&logoColor=white)
+![Pixel Art](https://img.shields.io/badge/Pixel_Art-5C94FC?style=for-the-badge&logo=aseprite&logoColor=white)
+![VR](https://img.shields.io/badge/VR%2FAR-7B2FBE?style=for-the-badge&logo=oculus&logoColor=white)
+
+---
+
+### ⚙️ Herramientas & Otros
+
+![Git](https://img.shields.io/badge/Git-F05033?style=for-the-badge&logo=git&logoColor=white)
+![Docker](https://img.shields.io/badge/Docker_(aprendiendo)-2496ED?style=for-the-badge&logo=docker&logoColor=white)
+![SQL](https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
+![Azure](https://img.shields.io/badge/Azure-0089D6?style=for-the-badge&logo=microsoft-azure&logoColor=white)
+![Figma](https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white)
+![Power BI](https://img.shields.io/badge/Power_BI-F2C811?style=for-the-badge&logo=powerbi&logoColor=black)
+![Photoshop](https://img.shields.io/badge/Photoshop-31A8FF?style=for-the-badge&logo=adobephotoshop&logoColor=white)
+![GIMP](https://img.shields.io/badge/GIMP-5C5543?style=for-the-badge&logo=gimp&logoColor=white)
+
+</div>
+
+---
+
+## 📊 Estadísticas de GitHub
+
+<div align="center">
+
+
+<img width="70%" src="https://github-readme-streak-stats.herokuapp.com/?user=djsekai34&amp;theme=tokyonight&amp;hide_border=true&amp;background=0d0d1a&amp;ring=8b9eff&amp;fire=c084fc&amp;currStreakLabel=8b9eff&amp;sideLabels=6b6b9a&amp;dates=3a3a6a" />
+
+<!-- GRÁFICO DE ACTIVIDAD -->
+<img width="95%" src="https://github-readme-activity-graph.vercel.app/graph?username=djsekai34&amp;theme=tokyo-night&amp;bg_color=0d0d1a&amp;color=8b9eff&amp;line=c084fc&amp;point=ffffff&amp;area=true&amp;hide_border=true" />
+
+</div>
 
 ---
 
 ## ✨ Habilidades Personales
-- **Sociable:** Facilidad para crear ambientes colaborativos.
-- **Resolución de problemas:** Análisis lógico y calma bajo presión.
-- **Trabajo en equipo:** Sumando fuerzas para alcanzar objetivos comunes.
-- **Pensamiento crítico:** Toma de decisiones informadas.
-- **Adaptabilidad:** Flexibilidad ante nuevos retos y tecnologías.
+
+<div align="center">
+
+| 💡 Habilidad | Descripción |
+|:---:|:---|
+| 🧩 **Resolución de problemas** | Análisis lógico y calma bajo presión |
+| 🤝 **Trabajo en equipo** | Facilidad para crear ambientes colaborativos |
+| 🔄 **Adaptabilidad** | Flexibilidad ante nuevos retos y tecnologías |
+| 🧠 **Pensamiento crítico** | Toma de decisiones informadas y reflexivas |
+| 💬 **Sociabilidad** | Comunicación fluida en entornos profesionales |
+
+</div>
 
 ---
 
 ## 🌱 Intereses
-- **🏀 Deportes:** Apasionado del fútbol y el baloncesto (practicante y espectador).
-- **🎵 Música:** Melómano y siempre en busca de nuevos géneros.
-- **💪 Fitness:** Estilo de vida saludable y bienestar.
-- **💻 Programación:** Mi hobby principal es aprender nuevos lenguajes y crear microproyectos.
+
+<div align="center">
+
+`⚽ Fútbol` &nbsp; `🏀 Baloncesto` &nbsp; `🎵 Música` &nbsp; `💪 Fitness` &nbsp; `💻 Programación` &nbsp; `🎮 Game Dev` &nbsp; `🎨 Pixel Art` &nbsp; `🥽 VR/AR`
+
+</div>
 
 ---
 
 ## 📫 Contacto
-Si te interesa mi perfil, quieres colaborar en un proyecto o simplemente charlar sobre tecnología y videojuegos, **contáctame a través de mis redes o en mi correo electrónico:**
 
-[![LinkedIn](https://img.shields.io/badge/-LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/david-jimenez-villena/)
-[![Email](https://img.shields.io/badge/-Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:davidjimenezvillena@gmail.com)
-[![GitHub](https://img.shields.io/badge/-GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/djsekai34)
+<div align="center">
+
+¿Tienes un proyecto en mente, quieres colaborar o simplemente hablar de tecnología y videojuegos? ¡Escríbeme!
+
+<br/>
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Hablemos_de_carrera-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/david-jimenez-villena/)
+[![Email](https://img.shields.io/badge/Email-davidjimenezvillena@gmail.com-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:davidjimenezvillena@gmail.com)
+[![GitHub](https://img.shields.io/badge/GitHub-djsekai34-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/djsekai34)
+
+<br/>
+
+---
+
+```
+// gracias por pasarte · let's build something cool 🚀
+```
+
+*⭐ Si algo de lo que ves te inspira, ¡dale una estrella! Siempre se agradece.*
+
+</div>
